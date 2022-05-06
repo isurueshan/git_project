@@ -13,7 +13,7 @@
         <td>AGE</td>
     </tr>
     <?php 
-    for($i=0;$i<10;$i++) {
+    for($i=0;$i<100;$i++) {
         ?>
     <tr>
         <td><?php echo $i;?></td>
