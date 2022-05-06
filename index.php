@@ -12,11 +12,15 @@
         <td>NAME</td>
         <td>AGE</td>
     </tr>
+    <?php 
+    for(i=0;$i<10;$i++) {
+        ?>
     <tr>
-        <td>1</td>
+        <td></td>
         <td>Eshan</td>
-        <td>30</td>
+        <td>3</td>
     </tr>
+    <?php }?>
 </table>
 </div>
     </body>
