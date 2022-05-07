@@ -11,7 +11,7 @@
     <div id="app">
         <h1>Movies</h1>
         <ul id="movies"></ul>
-        <li v-for="movie in movies">{{ movie.Title }}</li>
+        <li v-for="movie in movies">{{ movie.Title }} <img :src="movie.Poster" style="width:50px"/></li>
       </div>
 </div>
 <script>
