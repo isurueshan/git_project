@@ -53,7 +53,7 @@ $i=0;
     $tr = in_array($string1,$wrdchnks);
     if($tr = true){
 echo $words[$i]."<br>";
-echo "found cat";
+echo "found cat <br>";
     }else{
       echo "not found";
     }
