@@ -52,7 +52,7 @@ $i=0;
     $wrdchnks = str_split($wrds);
     $tr = in_array($string1,$wrdchnks);
     if($tr = true){
-echo $words[$i];
+echo $words[$i]."<br>";
 echo "found cat";
     }else{
       echo "not found";
