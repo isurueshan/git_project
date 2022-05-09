@@ -47,7 +47,7 @@ $words = ["cat", "baby", "dog", "bird", "car", "ax"];
 
 // $lp = str_split($string1);
 // print_r($lp);echo "\n";
-$i=0
+$i=0;
   foreach($words as $wrds){
     $wrdchnks = str_split($wrds);
     $tr = in_array($string1,$wrdchnks);
