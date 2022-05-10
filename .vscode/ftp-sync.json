@@ -1,12 +1,12 @@
 {
-    "remotePath": "./git.dudumalaysia.com",
-    "host": "ftp.dudumalaysia.com",
-    "username": "git@dudumalaysia.com",
-    "password": "Ovilano1&@!",
+    "remotePath": "./",
+    "host": "",
+    "username": "",
+    "password": "",
     "port": 21,
     "secure": false,
     "protocol": "ftp",
-    "uploadOnSave": true,
+    "uploadOnSave": false,
     "passive": false,
     "debug": false,
     "privateKeyPath": null,
@@ -20,7 +20,7 @@
     ],
     "generatedFiles": {
         "extensionsToInclude": [
-            ".php"
+            ""
         ],
         "path": ""
     }
