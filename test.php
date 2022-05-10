@@ -33,7 +33,7 @@
   // php code is wrapped in <?php tags
   
 //hhhhh
-
+echo "<h1 style=''>Isuru Eshan</h1>";
 $words = ["cat", "baby", "dog", "bird", "car", "ax"];
 
 $string2 = "tbcanihjs";
@@ -58,13 +58,12 @@ echo "found cat eshan<br>";
       echo "not found";
     }
     $i++;
-
+    
 // foreach($lp as $lps){
 //   echo $lps."\n";
 //     echo $wrds."\n";
 //   }
 }
-
 
 // $sz = sizeof($words);
 // for($i=0;$i<$sz;$i++){
